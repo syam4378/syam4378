@@ -10,28 +10,60 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Engineer;AI+Automation+Engineer;Generative+AI+Builder;B.Tech+CSE+Student+%7C+Builder+of+AI+Tools+%26+Workflows" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DevOps+Engineer;AI+Automation+Engineer;Generative+AI+Builder;B.Tech+CSE+Student;Builder+of+AI+Tools+%26+Automation+Systems" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syam4378&label=Profile%20Views&color=0f9cf5&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am a B.Tech CSE student and a passionate Full Stack Developer, DevOps Engineer, and AI & Automation Engineer, focused on building real-world products and automation systems.  
-I love designing, developing, and deploying intelligent tools that combine web technologies, cloud infrastructure, and Generative AI to solve practical problems.
+I am a B.Tech CSE student and a fresher Full Stack Developer, DevOps Engineer, and AI & Automation Engineer, building real-world products and AI-powered tools.  
+I focus on combining web technologies, cloud infrastructure, and Generative AI to create automation systems and intelligent assistants that solve practical problems.
 
-- 🚀 Currently building AI tools, automation systems, and production‑ready web apps  
-- 🤖 Passionate about Generative AI, RAG pipelines, and AI assistants for everyday workflows  
-- 🧩 Love creating automation workflows with APIs, no‑code/low‑code tools, and orchestration platforms  
-- 🏗️ Interested in startups, SaaS products, and solving real problems with technology  
-- 🌱 Continuously learning DevOps, scalable architectures, and best practices for modern development  
-- 🎯 Goal: Ship impactful projects that feel like real products, not just demos  
-- ☕ Fuelled by curiosity, open-source, and a lot of coffee
+- 🚀 Building AI tools, automation systems, and full stack applications
+- 🤖 Passionate about Generative AI, RAG pipelines, and custom AI assistants
+- 🧩 Love designing automation workflows with APIs, no-code/low-code tools, and orchestration platforms
+- 🧠 Interested in startups and real-world products that feel like actual SaaS, not just demos
+- ⚙️ Enjoy creating DevOps pipelines, containerized deployments, and scalable architectures
+- ☁️ Exploring cloud deployments, microservices, and production-ready systems
+- ☕ Powered by curiosity, experiments, and quite a bit of coffee
+
+---
+
+## 🏥 Featured Project — VitaAI
+
+<p align="center">
+  <strong>VitaAI — AI Health Intelligence Platform</strong>
+</p>
+
+<p align="center">
+  A full-stack, AI-powered health intelligence platform with face authentication, emotion detection, voice coaching, OCR health analysis, and an AI health assistant.
+</p>
+
+### 🌟 Key Highlights
+
+- 🧠 AI-powered health platform with intelligent insights and assistants  
+- 🧑‍🦰 Face Authentication using ArcFace ONNX for secure access  
+- 😊 Real-time emotion detection for mood and wellness tracking  
+- 🎙️ Voice AI Coach for interactive health-related conversations  
+- 📄 OCR Health Report Analyzer for blood reports and other health documents  
+- 🩺 AI Health Assistant to answer health-related queries and guide users  
+- 🐳 Docker-based deployment for consistent environments  
+- ☁️ Render cloud deployment for scalable hosting  
+- 🧱 Full-stack architecture with clear separation of concerns  
+- 🧩 3 microservices for main app, face service, and voice agent
+
+### 🔗 Live Deployments
+
+- 🌐 Main App:  
+  https://vitaai-server.onrender.com
+
+- 👤 Face Service:  
+  https://vitaai-face-latest.onrender.com
+
+- 🎤 Voice Service:  
+  https://vitaai-voice1.onrender.com
 
 ---
 
@@ -99,6 +131,8 @@ I love designing, developing, and deploying intelligent tools that combine web t
   <img src="https://img.shields.io/badge/n8n-%23F05A28.svg?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Automation%20Anywhere-%23FF7A00.svg?style=for-the-badge&logo=automation&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram%20Bot-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp%20Agent-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 <p align="center">
@@ -112,59 +146,67 @@ I love designing, developing, and deploying intelligent tools that combine web t
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Other Featured Projects
 
-> Working on real-world, product‑focused projects that combine web, cloud, and AI.
+<p align="center">
+  <i>Product-style projects focused on automation, AI, and full stack development.</i>
+</p>
 
-- ⚙️ **MCP Social Media Automation**  
-  Automating social media workflows using MCP, APIs, and orchestration for hands‑free content operations.
+<div align="center">
 
-- 📄 **AI Resume Builder**  
-  Intelligent resume builder powered by LLMs and dynamic templates for role‑specific resumes.
-
-- 🗣️ **Voice Agent**  
-  Voice‑enabled assistant that integrates speech, APIs, and AI to perform tasks and answer queries.
-
-- 🧑‍💻 **Face Authentication System**  
-  Secure face authentication workflow integrating computer vision and backend services.
-
-- 📚 **AI Assistant with RAG**  
-  Context‑aware assistant with Retrieval‑Augmented Generation for domain‑specific knowledge bases.
-
-- 🎬 **AI Video & Story Generator**  
-  Pipeline that converts ideas into scripts and media using multimodal Generative AI.
-
-- 💬 **WhatsApp AI Agent**  
-  Chat‑based AI agent on WhatsApp for automation, FAQs, and workflow triggers.
-
-- 🍔 **Food Delivery Website**  
-  Full stack food delivery web app with modern UI and backend APIs.
-
-- 🔗 **LinkSaver Website**  
-  Minimal, clean app to save, manage, and share important links.
+<!-- Card 1 -->
+  
+🧠 <b>MCP Social Media Automation</b>  
+Automated social media workflows using MCP and APIs for scheduling, posting, and analytics.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syam4378&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syam4378&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syam4378&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+📄 <b>AI Resume Builder</b>  
+LLM-powered resume generator that creates tailored resumes based on roles and job descriptions.
 
 ---
 
-## 🏆 GitHub Trophies
+🗣️ <b>Voice Agent</b>  
+Voice-based assistant integrating speech, APIs, and AI to handle tasks and answer questions.
+
+---
+
+🧑‍💻 <b>Face Authentication System</b>  
+Face recognition workflow for secure authentication and access control.
+
+---
+
+📚 <b>AI Assistant with RAG</b>  
+Domain-specific assistant using Retrieval-Augmented Generation for contextual answers.
+
+---
+
+🎬 <b>AI Video & Story Generator</b>  
+Generates scripts and storylines using Generative AI, with extendable pipelines for media.
+
+---
+
+💬 <b>WhatsApp AI Agent</b>  
+WhatsApp-based AI agent for FAQs, workflow triggers, and automation.
+
+---
+
+🍔 <b>Food Delivery Website</b>  
+Full stack food delivery website with modern UI, dynamic menus, and order flows.
+
+---
+
+🔗 <b>LinkSaver Website</b>  
+Minimal, clean web app to store and manage useful links.
+
+</div>
+
+---
+
+## 👀 Visitor Counter
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syam4378&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=syam4378&label=Profile%20Views&color=0f9cf5&style=flat-square" alt="profile views" />
 </p>
 
 ---
@@ -184,6 +226,9 @@ I love designing, developing, and deploying intelligent tools that combine web t
   <a href="https://asp.ccbp.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://youtube.com/@shadowmind1-l7?si=U__gj5FvJVhVMvZL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
 ---
@@ -191,9 +236,9 @@ I love designing, developing, and deploying intelligent tools that combine web t
 ## ⚡ Footer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Let's+build+something+awesome+together.;Always+shipping%2C+always+learning." alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by!;Let's+build+something+amazing+together.;Code+%7C+Automate+%7C+Ship+%7C+Repeat." alt="Footer Typing SVG" />
 </p>
 
 <p align="center">
-  <i>"Code. Automate. Ship. Repeat."</i>
+  <i>"Building AI-powered experiences that feel like real products."</i>
 </p>
