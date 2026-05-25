@@ -14,12 +14,16 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syam4378&label=Profile%20Views&color=0f9cf5&style=flat-square" alt="profile views" />
+</p>
+
+
 ---
 
 ## 🧑‍💻 About Me
 
 I am a B.Tech CSE student and a fresher Full Stack Developer, DevOps Engineer, and AI & Automation Engineer, building real-world products and AI-powered tools.  
-I focus on combining web technologies, cloud infrastructure, and Generative AI to create automation systems and intelligent assistants that solve practical problems.
 
 - 🚀 Building AI tools, automation systems, and full stack applications
 - 🤖 Passionate about Generative AI, RAG pipelines, and custom AI assistants
